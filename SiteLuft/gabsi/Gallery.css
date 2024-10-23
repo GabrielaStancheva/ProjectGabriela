@@ -1,0 +1,175 @@
+body {
+    background-image: url("fonn.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+
+    
+    font-family: "Lato", sans-serif;
+
+	
+}
+.Photoss figure img {
+	position: absolute;
+
+    width: 300px;
+	height: auto;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.Photoss figure:hover img {
+	width: 350px;
+}
+
+.header{
+    font-style: italic;
+    color: aliceblue;
+    position: absolute;
+    font-size: 17px;
+      top:20px;
+      left: 400px;
+      margin: 50px;
+      text-indent: 120px;
+}
+
+.h2{
+    font-weight: bold;
+    font-style: italic;
+    color: aliceblue;
+    position: absolute;
+    font-size: 2rem;
+      top: 550px;
+      left: 400px;
+      margin: 50px;
+      text-indent: 120px;
+
+}
+
+.Picc1{
+    
+        position: absolute;
+        top: 30px;
+    right: 8%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .Picc2{
+    
+        position: absolute;
+        top: 200px;
+    right: 45%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    .Picc3{
+    
+        position: absolute;
+        top: 370px;
+    right: 45%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    
+    .Picc4{
+    
+        position: absolute;
+        top: 300px;
+        right: 80%;
+        width: 300px;
+        height: 300px;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    .Picc5{
+    
+        position: absolute;
+        top: 300px;
+        right: 8%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    .Picc6{
+    
+        position: absolute;
+        top: 40px;
+        left: 0.6%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .Picc7{
+    
+        position: absolute;
+        top: 700px;
+        right: 80%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    
+    .Picc8{
+    
+        position: absolute;
+        top: 700px;
+    right: 43%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .Picc9{
+    
+        position: absolute;
+        top: 700px;
+    right: 8%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .Picc10{
+    
+        position: absolute;
+        top: 1100px;
+        right: 80%;
+        width: 300px;
+        height: 300px;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .Picc11{
+    
+        position: absolute;
+        top: 1100px;
+    right: 43%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    
+    .Picc12{
+    
+        position: absolute;
+        top: 1100px;
+        right: 8%;
+        width: 300px;
+        height: auto;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }

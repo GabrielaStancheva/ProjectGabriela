@@ -1,0 +1,483 @@
+/** {
+        outline: 1px solid green;
+}*/
+
+
+h1
+{
+font-family: sans-serif;
+font-size: 46px;
+color:rgb(10, 111, 218);
+font-weight: 600;
+text-align: center;
+text-shadow: 2px 2px darkblue;
+letter-spacing: 2px;
+
+}
+/*vmesto tezi dvete body i vutre url i maham o maina klasa*/
+body
+ {
+        background-image: url("main.photo.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+
+        
+        font-family: "Lato", sans-serif;
+  
+              
+ }
+
+
+
+        
+
+.p1
+{
+        font-size: 17px;
+      text-align: center;
+      margin: 20px;
+      text-indent: 135px;
+
+}
+
+.p2
+{
+       font-size: 22px;
+      
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       position: absolute;
+       margin: 60px;
+       left: 70px;
+       top: 115px;
+}
+
+.p3
+{
+  font-size: 19px;
+        line-height: 1.2;
+        text-indent: 50px;
+        width: 250px;
+        height: 300px;
+        border: 5px;
+        padding: 15px;
+        margin: 20px;
+        position: absolute;
+        left: 90px;
+        
+}
+
+.p4
+{
+        font-size: 22px;
+      
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        position: absolute;
+        margin: 60px;
+        right: 15px;
+        top: 115px;
+}
+
+.p5
+{
+  font-size: 19px;
+        line-height: 1.2;
+        text-indent: 50px;
+        width: 200px;
+        height: 100px;
+        border: 5px;
+        padding: 18px;
+        margin: 20px;
+        position: absolute;
+        right: 150px;
+}
+
+
+.p6
+{
+        line-height: 1.2;
+        text-indent: 50px;
+        width: 500px;
+        height: 100px;
+        border: 5px;
+        padding: 50px;
+        margin: 70px;
+        position: absolute;
+        left: 10px;
+        top: 850px
+        
+        
+}
+
+.Title1
+{
+        
+        font-size: 19px;
+      
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        position: absolute;
+        left: 1px;
+        top: 10px;
+}
+
+
+.p7
+{
+        line-height: 1.2;
+        text-indent: 50px;
+        width: 500px;
+        height: 100px;
+        border: 5px;
+        padding: 250px;
+        margin: 70px;
+        position: absolute;
+        left: 350px;
+        top: 605px;
+}
+
+
+
+
+
+.header 
+{
+        width: 100%;
+        height: 30px;
+        border: 2px solid darkblue;
+        background-color: darkblue;
+        position: absolute;
+        top: 80px;
+}
+
+
+.info
+{
+font-style: italic;
+width: 100%;
+height: 20px;
+border: 2px solid darkblue;
+padding: 5px 5px 5px 5px;
+/*text align dali teksta da e v nachaloto ili v kraq na abzaca */
+text-align: center;
+position: fixed;
+
+bottom: 5px;
+
+}
+
+.img
+{
+position: absolute;
+top: 0.5px;
+
+}
+
+.TextInPhoto
+{
+     
+ position: absolute;
+ width: 100%;
+ top: 600px
+ 
+
+}
+
+.TextInPhoto img {
+        width: 100%;
+}
+
+.TextInPhoto2
+{
+     
+ position: absolute;
+ width: 100%;
+ height: 30px;
+ top: 1350px;
+
+}
+
+.PicFullWidth2
+{
+        width: 100%;
+        height: 400px;
+        filter: brightness(50%);
+}
+
+
+
+.planee .planefinal{
+  position: absolute;
+  top: 160px;
+  left: 550px;
+
+}
+
+
+.plane
+{
+position:absolute;
+top: 170px;
+left: 700px;
+
+}
+
+
+section#plane{
+        margin-left: 120px;
+        position: absolute;
+        top: 220px;
+}
+
+section#phone
+{
+        
+       right: 105px;
+        position: absolute;
+        top: 50px;
+        color: aliceblue;
+}
+
+section#mail
+{
+        
+       right: 70px;
+        position: absolute;
+        top: 50px;
+        color: aliceblue;
+}
+
+section#insta
+{
+        
+       right: 40px;
+        position: absolute;
+        top: 51px;
+        color: rgb(243, 244, 246);
+}
+
+section#facebook
+{
+        
+       right: 10px;
+        position: absolute;
+        top: 51px;
+        color: aliceblue;
+}
+
+section#suitcase
+{
+        margin-left: 1180px;
+        position: absolute;
+        top: 220px;
+}
+
+.dropbtn {
+        background-color: #3498DB;
+        color: white;
+       /* padding: 16px;
+        
+       
+        
+        position: absolute;
+        top: 3px;
+        left: 1050px;*/
+        position: absolute;
+        top: 570px;
+        left: 120px;
+        cursor: pointer;
+        color: rgb(8, 49, 160);
+        border:#100569;
+        padding-left: 20px;
+        padding-right: 20px;
+        height: 50px;
+       font-size: 16px;
+
+      }
+      
+      .dropbtn:hover, .dropbtn:focus 
+      {
+        background-color: #083e61;
+      }
+      
+      .dropdown 
+      {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .dropdown-content 
+      {
+        display: none;
+        position: absolute;
+        top: 630px;
+        left: 120px;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        overflow:unset;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      
+      .dropdown-content a 
+      {
+        color: black;
+        padding: 12px 16px;
+        text-decoration:none;
+        display:table-footer-group;
+        
+      }
+      
+      .dropdown a:hover 
+      {
+        background-color: #ddd;
+       }
+      
+      .show 
+      {
+        display: block;
+        
+      }
+
+      .heading
+      {
+        position: absolute;
+        bottom: 120px;
+        left: 90px;
+        
+        color: rgb(8, 49, 160);
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+
+      .paragraph
+      {
+        position: absolute;
+        bottom: 90px;
+        left: 100px;
+        
+        color: rgb(8, 49, 160);
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .Heading
+      {
+        position: relative;
+        font-family: Arial;
+        
+      }
+
+      .Heading2
+      {
+        position: relative;
+        font-family: Arial;
+      }
+
+      .heading21
+      {
+        position: absolute;
+        bottom: 340px;
+        left: 60px;
+        
+        color: rgb(255, 255, 255);
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+
+    .paragraph21
+    {
+        position: absolute;
+        bottom: 230px;
+        left: 80px;
+        width: 730px;
+        color: rgb(255, 255, 255);
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    .heading22
+    {
+        position: absolute;
+        bottom: 180px;
+        left: 60px;
+        
+        color: rgb(255, 255, 255);
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .paragraph22
+    {
+        position: absolute;
+        bottom: 60px;
+        left: 80px;
+        width: 380px;
+        color: rgb(255, 255, 255);
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    .heading23
+    {
+        position: absolute;
+        bottom: 180px;
+        left: 478px;
+        
+        color: rgb(255, 255, 255);
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .paragraph23
+    {
+        position: absolute;
+        bottom: 40px;
+        left: 500px;
+        width: 350px;
+        color: rgb(255, 255, 255);
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+      
+      .sidenav a:hover {
+        color: #f1f1f1;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
+      
